@@ -1,3 +1,6 @@
+![alt text](https://github.com/mohexc/CounterApp/blob/master/public/CounterApp.PNG?raw=true)
+
+
 wrokshop : couterApp 
 
 modify : convert class-component to functionHook-component
