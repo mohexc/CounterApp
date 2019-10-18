@@ -1,11 +1,10 @@
 ![alt text](https://github.com/mohexc/CounterApp/blob/master/public/CounterApp.PNG?raw=true)
 
-
-wrokshop : couterApp 
-
-modify : convert class-component to functionHook-component
-
 by Programming with mosh (https://www.youtube.com/watch?v=Ke90Tje7VS0)
+
+PSwebApp : react+bootstrap
+
+**modify : Class-component => FunctionHook-Component
 
 ## Available Scripts
 
