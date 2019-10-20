@@ -1,8 +1,15 @@
+Project name : CounterApp
+
+reactJs : FunctionHook-compoenent (original Class-component)
+
+style : bootstarp
+
+work shop :  Programming with mosh (https://www.youtube.com/watch?v=Ke90Tje7VS0)
+
 ![alt text](https://github.com/mohexc/CounterApp/blob/master/public/CounterApp.PNG?raw=true)
 
-by Programming with mosh (https://www.youtube.com/watch?v=Ke90Tje7VS0)
 
-PSwebApp : react+bootstrap
+
 
 **modify : Class-component => FunctionHook-Component
 
